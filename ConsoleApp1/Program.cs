@@ -9,9 +9,9 @@ namespace ConsoleApp1
             Console.WriteLine("Hello AHBC Dotnet Q1 2020 :)");
         }
 
-        pivate static void ShitMethod()
+        private static void ShitMethod()
         {
-
+            Console.WriteLine("Here is the shit");
         }
     }
 }
