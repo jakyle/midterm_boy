@@ -8,5 +8,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello AHBC Dotnet Q1 2020 :)");
         }
+
+        private static void ShitMethod()
+        {
+            Console.WriteLine("Here is the shit");
+        }
     }
 }
